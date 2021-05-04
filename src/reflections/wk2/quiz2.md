@@ -3,17 +3,17 @@
 **1.** Which keywords are used to declare a variable in JavaScript?
 <!-- enter you answer in the space below -->
 ```
-'let' or 'var'
+'let', 'var' and 'const'
 ```
 **2.** What is the definition of a function?
 <!-- enter you answer in the space below -->
 ```
-
+its a subprogram designed to perform a certain task
 ```
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+Single responsibility, Open/closed, Liskov substitution, Interface segregation, Dependency inversion
 ```
 **4.** Given this array: 
 ```js
@@ -32,17 +32,14 @@ let them = { name:"Them", hair: false, friends: [] }
 how would you .push the `them` object into the `you` object's array of friends?
 <!-- enter you answer in the space below -->
 ```
-
+let friend = you.friends
+friend.push(them)
 ```
 
 **6.** Give an example of a JavaScript `Conditional`:
 <!-- enter you answer in the space below -->
 ```
-if(pie > 0){
-  eat more pie
-}else{
-  cry
-}
+i > 3
 ```
 **7.** In the `for loop` below, what is the name of the piece belongs inside the empty "______" space? What would you put here to increase `i` by one on every iteration?
 ```js
@@ -56,21 +53,23 @@ incrimenter ex.(i++), or decrimenter ex.(i--)
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter you answer in the space below -->
 ```
-document . . . html
+Document Object Model, the 'index.html'
 ```
 
 **9.** What are the `9` ECMAScript types as defined by MDN?
 <!-- enter you answer in the space below -->
 ```
-
+undefined, boolean, number, string, bigint, symbol, object, function, null
 ```
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
 ```
-
+parameter are used when defining a function
+argument is what the function needs when called
 ```
 **11.** What is the difference between a `primitive` value and a `reference` value?
 <!-- enter you answer in the space below -->
 ```
-
+primitive values have no objects and dont use methods
+reference values reference or contain other values
 ```
