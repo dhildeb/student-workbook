@@ -1,4 +1,4 @@
-> day 2 lab
+> day 2 Lab
 - https://dhildeb.github.io/coolSite/
 
 # What is a Pseudo-Class and what are some of the most common ones you think you will use

@@ -1,3 +1,6 @@
+> Day 3 Lab
+-https://dhildeb.github.io/clone-site/
+
 # What is your favorite tip that you think is the most beneficial to improving your design?
 
 >
