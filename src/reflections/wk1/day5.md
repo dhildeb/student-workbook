@@ -1,0 +1,2 @@
+# Reflection
+> This has been a good first week, i've done a lot practice after the pre-course work so i felt pretty confident with all the content this week. I was overwhelmed when the checkpoint was introduced i didnt think i could complete it, but taking it all one step at a time i completed the checkpoint way faster than i expected. All in all im loving everything thus far and am excited to learn more.
