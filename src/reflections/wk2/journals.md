@@ -17,17 +17,23 @@
 
 # Tuesday
 >Lab
-- 
+- https://dhildeb.github.io/js-tests-loops-and-arrays/
 
 >What are the three ways to syntactically write a function? What are the differences in how the function acts (if any)?
-- 
+- function declaration, is hoisted
+- function expression, is not hoisted
+- arrow function expression, a shorthand for function expression
 
 >What is the difference between Parameters and Arguments?
-- parameters have no value
-- arguments are the input from the user
+- parameters are names that have no value, made when writing functions
+- arguments are the input from the user that goes into the function
 
 >What are higher order functions? Can you provide an example?
-- 
+- higher order functions are functions within functions (funception). 
+const doubleFunct = function(x){
+  x+x
+}
+const doubleCount = doublefunt
 
 # Wendsday
 >Lab
