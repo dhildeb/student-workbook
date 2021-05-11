@@ -23,7 +23,8 @@
 - 
 
 >What is the difference between Parameters and Arguments?
-- 
+- parameters have no value
+- arguments are the input from the user
 
 >What are higher order functions? Can you provide an example?
 - 
