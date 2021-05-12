@@ -37,7 +37,7 @@ const doubleCount = doublefunt
 
 # Wendsday
 >Lab
-- 
+- https://dhildeb.github.io/rock-paper-scissors/
 
 >What are the main ways to write information to the console? Why/when should you use each style.
 - 
