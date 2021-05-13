@@ -40,13 +40,14 @@ const doubleCount = doublefunt
 - https://dhildeb.github.io/rock-paper-scissors/
 
 >What are the main ways to write information to the console? Why/when should you use each style.
-- 
+- console.log(), throw new error(), console.error(), 
+- each is useful for debugging, you can throw an error message when input doesnt match up.
 
 >Which tab allows you to see the breakdown of HTML/CSS and how can this tab be useful when debugging HTML?
-- 
+- elements tab, its useful to see exactly whats being applied to the element and how it looks to make adjustments.
 
 >Outside of writing everything to the console, what is a better way to debug your code?
-- 
+- use the debugger and code editor
 
 # Thursday
 >Lab
