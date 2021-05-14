@@ -51,17 +51,20 @@ const doubleCount = doublefunt
 
 # Thursday
 >Lab
-- 
+- https://dhildeb.github.io/slap-game/
 
 >What are the benefits of making a plan before starting to just write the code?
+- planning can prevent the need to rewrite a lot of your code because you know the big picture and know whats functions you need and how they work together.
 
 >How do you find answers when you are stuck?
+- google it! there's a solution that you can find a lot faster than trying to figure it out yourself.
 
 >From the entire article what are your biggest takeaways?
+- Simplify code and most importantly make it readable! 
+- Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+
+--- John Woods
 
 # Friday
->Lab
-- 
-
 >This reflection is an open format, so it can be whatever you like. Take this opportunity to write a bit on some of the things you have learned this week, or some of the things that you are still struggling with, identify some challenges you had at the beginning of the week that you were able to overcome, or just generally how you are feeling at this point in the course.
 
