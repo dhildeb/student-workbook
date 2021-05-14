@@ -68,3 +68,4 @@ const doubleCount = doublefunt
 # Friday
 >This reflection is an open format, so it can be whatever you like. Take this opportunity to write a bit on some of the things you have learned this week, or some of the things that you are still struggling with, identify some challenges you had at the beginning of the week that you were able to overcome, or just generally how you are feeling at this point in the course.
 
+- i feel like im really understanding html, i do feel behind on css especially animations. i feel really good at basic javascript especially conditionals but i feel like im struggling with objects and dictionaries. my code seems to be rather messy and i am struggling to simplify my code rather than write out each possible if statement. i still feel like im learning a lot and im loving the assignments.
