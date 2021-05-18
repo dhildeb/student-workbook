@@ -17,7 +17,7 @@
 
 # Tuesday
 > Lab
-- 
+- https://dhildeb.github.io/vending-machine/
 
 >What is the purpose of Encapsulation?
 - avoid shared mutable state
