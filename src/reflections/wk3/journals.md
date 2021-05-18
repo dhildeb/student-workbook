@@ -25,10 +25,10 @@
 - prevent bugs while sharing data
 
 What were some of the problems with closures and the underscore prefix?
-- 
+- underscore relies on the user knowing that its not meant to be used, but can still be abused.
 
 How do we create private variables in a ES6 Class? Why would you do this?
-- 
+- encapsulation and classes, this prevents the user from manipulating or ruining our code by only giving access to what we want them to have access to.
 
 # Wendsday
 > Lab
