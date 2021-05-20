@@ -43,6 +43,21 @@ What do you have to make sure you are doing with every Get to insure the value d
 What are some of the benefits of the proxy object that we are using in our structure for applications?
 - proxy's prevent users from accessing information made private via the proxy.
 
+# Thursday
+> Lab
+- 
+
+>What problems does the Observer Pattern seek to solve?
+- syncing data across mutliple elements.
+- other common problems with client side application
+
+>What are the three mechanisms of the observer pattern?
+- subscribe, unsubscribe and broadcast
+
+>Review the code generated from the bcw-template and reflect on the proxy objects from yesterday, and your understanding of the observer pattern today. With this knowledge, explain how the magic of the bcw-template uses these two concepts to manage and update the dom.
+- i dont know...
+
+
 # Friday
 >This reflection is an open format, so it can be whatever you like. Take this opportunity to write a bit on some of the things you have learned this week, or some of the things that you are still struggling with, identify some challenges you had at the beginning of the week that you were able to overcome, or just generally how you are feeling at this point in the course.
 - 
