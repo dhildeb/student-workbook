@@ -32,16 +32,16 @@ How do we create private variables in a ES6 Class? Why would you do this?
 
 # Wendsday
 > Lab
-- 
+- https://dhildeb.github.io/summer21-gregslist-v1/
 
 >What are the two common operations that we will set in the handler?
-- 
+- get and set
 
 What do you have to make sure you are doing with every Get to insure the value does not become undefined?
-- 
+- return the value, since default is to return the key.
 
 What are some of the benefits of the proxy object that we are using in our structure for applications?
-- 
+- proxy's prevent users from accessing information made private via the proxy.
 
 # Friday
 >This reflection is an open format, so it can be whatever you like. Take this opportunity to write a bit on some of the things you have learned this week, or some of the things that you are still struggling with, identify some challenges you had at the beginning of the week that you were able to overcome, or just generally how you are feeling at this point in the course.
