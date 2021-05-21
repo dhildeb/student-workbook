@@ -45,7 +45,7 @@ What are some of the benefits of the proxy object that we are using in our struc
 
 # Thursday
 > Lab
-- 
+- https://dhildeb.github.io/jims-sporting-goods/
 
 >What problems does the Observer Pattern seek to solve?
 - syncing data across mutliple elements.
@@ -55,7 +55,7 @@ What are some of the benefits of the proxy object that we are using in our struc
 - subscribe, unsubscribe and broadcast
 
 >Review the code generated from the bcw-template and reflect on the proxy objects from yesterday, and your understanding of the observer pattern today. With this knowledge, explain how the magic of the bcw-template uses these two concepts to manage and update the dom.
-- i dont know...
+- it takes the infomation created and tracks it allowing for quick drawing and referencing.
 
 
 # Friday
