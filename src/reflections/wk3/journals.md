@@ -60,4 +60,4 @@ What are some of the benefits of the proxy object that we are using in our struc
 
 # Friday
 >This reflection is an open format, so it can be whatever you like. Take this opportunity to write a bit on some of the things you have learned this week, or some of the things that you are still struggling with, identify some challenges you had at the beginning of the week that you were able to overcome, or just generally how you are feeling at this point in the course.
-- 
+- ok monday and tuesday i felt like i was drowning, i really didnt understand any of it. im still trying to understand it all but its starting to make sense. im still amazed that each assignment at first is very overwhelming but taking it one piece at a time its actually reasonable. 
