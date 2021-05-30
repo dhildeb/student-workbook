@@ -45,14 +45,17 @@
 
 # Thursday
 >Lab
-- 
+- https://dhildeb.github.io/music-is-fun/
 
 >What does REST stand for, and in simple terms what does it mean?
+- REpresentational State Transfer, it is a pattern that api's and other applications use to represent information/data.
 
 >What does Stateless mean?
+- it doesnt keep any information on the request or requestee.
 
 >What URL pattern is used when writing a RESTful API?
+- user id and a get
 
 # Friday
 >This reflection is an open format, so it can be whatever you like. Take this opportunity to write a bit on some of the things you have learned this week, or some of the things that you are still struggling with, identify some challenges you had at the beginning of the week that you were able to overcome, or just generally how you are feeling at this point in the course.
-- 
+- the content this week was easier to pick up apossed to last week. although having lab in the morning and lecture in the evening was more difficult and not my favorite.
