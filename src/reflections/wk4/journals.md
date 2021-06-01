@@ -32,7 +32,7 @@
 
 # Wendsday
 >Lab
-- 
+- https://dhildeb.github.io/Pokedex/
 
 >What is the purpose of Async/Await?
 - async allows the function to finish running after all awaits are completed
