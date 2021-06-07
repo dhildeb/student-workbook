@@ -26,21 +26,18 @@
 - to update doc findOne, get array, change array, and save
 
 # Thursday
->Lab
-- 
-
 >What is a virtual property?
-- 
+- additional fields for the model
 
 >When might you use a virtual property?
-- 
+- using full name of person or other property that is used only logically
 
 >How do you search by a virtual properties value?
-- 
+- use a get
 
 # Friday
 >Hackathon
-- 
+- https://dhildeb.github.io/bomb-site/
 
 >This reflection is an open format, so it can be whatever you like. Take this opportunity to write a bit on some of the things you have learned this week, or some of the things that you are still struggling with, identify some challenges you had at the beginning of the week that you were able to overcome, or just generally how you are feeling at this point in the course.
-- 
+- super fun to work in a group and all day! although i could not stand working with will at all.
