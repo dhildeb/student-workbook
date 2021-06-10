@@ -3,39 +3,40 @@
 - https://github.com/dhildeb/vue-playground
 
 >What is Component based architecture?
-- 
+- build pages with small components
 
 >What are some benefits of Component based architecture?
-- 
+- reusability, single responsibility
 
 >What are some drawbacks to Component based architecture?
-- 
+- degrade in readability
 
 # Tuesday
 >Lab
 - https://github.com/dhildeb/nasa-pics
 
 >What are props?
-- 
+- props are arguments
 
 >What are props used for?
-- 
+- passing variable between two components
 
 >Where can props be used or accessed?
-- 
+- props are a one way data flow, so only the children can access it from the parents
 
 # Wendsday
 >Lab
 - https://github.com/dhildeb/gregslist-vue
 
 >What are lifecycle hooks? What are lifecycle hooks used for?
-- 
+- lifecycle hooks are how we can monitor components lifespan (creation, use and destruction)
+- by monitoring these we can use them as triggers for other code
 
 >How have you utilized lifcycle hooks in your afternoon projects?
-- 
+- i used watchEffect to get one or more items from the api
 
 >What are mounting hooks? When might you use them?
-- 
+- access components before rendering, to grab information from the server
 
 # Thursday
 >Lab
