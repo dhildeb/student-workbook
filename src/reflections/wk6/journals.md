@@ -40,16 +40,16 @@
 
 # Thursday
 >Lab
-- 
+- https://github.com/dhildeb/pokedex-vue
 
 >What is a nested route?
-- 
+- a route inside a route
 
 >When might you use a nested route? (other than the provided example)
-- 
+- going home after a trigger when your a few routes from home
 
 >Can you pass parameters through nested routes? When might you use them?
-- 
+- yes, to get to a specific route path or route id
 
 # Friday
 >Lab
