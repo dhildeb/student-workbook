@@ -5,7 +5,7 @@
 ```
 npm run serve
 ```
-**2.** Where can you find the scripts to startup you project on localhost?
+**2.** Where can you find the scripts to startup your project on localhost?
 <!-- enter you answer in the space below -->
 ```
 main.js
