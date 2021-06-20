@@ -29,7 +29,7 @@ v-model is for binding, its useful when submitting form data or receiving any in
 **6.** The `v:on` (`@`) directive can be used for what?
 <!-- enter you answer in the space below -->
 ```
-TODO
+can be used for click events and submits, basically a substitute for 'at'
 ```
 **7.** Which Vue attributes(directives) could you use to conditionally render elements on a page?
 <!-- enter you answer in the space below -->
@@ -44,5 +44,5 @@ the key is to help the v-for keep track of the elements its going through
 **9.** What is the `<slot>` element and what is it used for?
 <!-- enter you answer in the space below -->
 ```
-TODO
+placeholder tag
 ```
