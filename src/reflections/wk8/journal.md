@@ -13,20 +13,27 @@
 
 # Tuesday
 >Why is communication on a small team important?
-- 
+- continuous communication is key for a team to work together to prefent conflicts and improve efficency.
 
 >What adjustments from traditional sized scrum teams need to be made to use the agile methodology effectively in a small team?
-- 
+- less/shorter meetings.
 
 >What is the unattainable triangle? What are the tradeoffs of each side?
-- 
+- Good service Cheap won't be Fast
+- Good service Fast won't be Cheap
+- Fast service Cheap won't be Good
 
 # Wendsday
 >What is Software Development Testing?
+- a way to check if code works as intended.
 
 >What are the benefits of Testing in software development?
+- testing in small units at a time will result in less bugs and easier fixes to problems
+- testing will also replace the need to run an application and navigate to the part that runs the code to be tested.
+- peace of mind
 
 >What are some potential drawbacks of Testing in software development?
+- additional cost and time
 
 # Thursday
 >What are the three main types of testing we can accomplish in Vue? What does each method provide?
