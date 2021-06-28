@@ -37,11 +37,16 @@
 
 # Thursday
 >What are the three main types of testing we can accomplish in Vue? What does each method provide?
+- Unit Testing, allows you to test individual units of code, does not differ largely from other tests.
+- Component Testing, allows you to test components with several plug in options.
+- End-To-End (E2E) Testing, allows for whole application testing, ability to view what the user would.
 
 >What testing method do you think is the most useful? Why?
+- Component Testing, i think it would be most useful to test seperate components rather than the whole application or smaller units.
 
 >What testing method do you think is the least useful? Why?
+- Unit Testing, testing as such a small level seems tedious and time consuming when you can do larger tests to cover more coding ground.
 
 # Friday
 >This reflection is an open format, so it can be whatever you like. Take this opportunity to write a bit on some of the things you have learned this week, or some of the things that you are still struggling with, identify some challenges you had at the beginning of the week that you were able to overcome, or just generally how you are feeling at this point in the course.
-- 
+- capstones are great! Way less stressful than i thought it would be.
