@@ -1,4 +1,7 @@
 # Monday
+>Lab
+- https://github.com/dhildeb/rock-paper-scissors-cs
+
 >What are the three categories of data types? How are they different?
 - value type
 - reference type
@@ -13,14 +16,23 @@
 - reference types are a location with another location stored in it.
 
 # Tuesday
->What is a List in C#?
+>Lab
 - 
 
->What List methods seem like you might use them often? Why?
+>What is a List in C#?
+- a generic type so that it can become any type, great substitute for arrays 
 
->How would you retrieve an item from a list? What method could you use?
+>What List methods seem like you might use them often? Why?
+- Count, Add, Contains, ForEach, Find, FindIndex, Remove, RemoveAt
+- similar to array methods that i have already used often.
+
+>How would you retrieve an item from a list? What method could you use? 
+- list.Find(item => listItem === searchItem)
+- you could also use FindIndex and FindAt
 
 # Wendsday
+>Lab
+- 
 >In a SQL table, what is the difference between information in a row and information in a column?
 
 >Demonstrate the basic structure for creating a new table called characters with the values name, age, description as strings, and an int id.
@@ -28,6 +40,9 @@
 >What is the difference between the following statements:
 
 # Thursday
+>Lab
+- 
+
 >What is an Enum, and what are some use cases for them?
 
 >How can you modify an Enum?
