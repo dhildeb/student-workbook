@@ -17,7 +17,7 @@
 
 # Tuesday
 >Lab
-- 
+- https://github.com/dhildeb/gregslist-cs
 
 >What is a List in C#?
 - a generic type so that it can become any type, great substitute for arrays 
@@ -30,14 +30,25 @@
 - list.Find(item => listItem === searchItem)
 - you could also use FindIndex and FindAt
 
-# Wendsday
+# Wednesday
 >Lab
-- 
+- https://github.com/dhildeb/knights-quest-cs
+
 >In a SQL table, what is the difference between information in a row and information in a column?
+- a column is a list of all the values in the table, like all the names or ids.
+- a row would be an object inside the table with its different attributes divided into columns.
 
 >Demonstrate the basic structure for creating a new table called characters with the values name, age, description as strings, and an int id.
+- CREATE TABLE characters(
+  id int NOT NULL PRIMARY KEY AUTO_INCEMENT,
+  names varchar(255) NOT NULL,
+  age int NOT NULL,
+  description varchar(255)
+) DEFAULT charset utf8 COMMENT '';
 
->What is the difference between the following statements:
+>What is the difference between the following statements: DELETE FROM table_name;
+DROP TABLE table_name;
+- delete will delete a name from the table and drop table will delete all the names from the table.
 
 # Thursday
 >Lab
