@@ -4,17 +4,17 @@
 **1.** What is the purpose of a `namespace`?
 <!-- enter you answer in the space below -->
 ```
-REVIEW
+namespace encapsulates code into a group to allow ease of accessing, protecting, and writing code.
 ```
 **2.** What is the difference between a `class` and a `struct`?
 <!-- enter you answer in the space below -->
 ```
-REVIEW
+a class is a reference type and a struct is a value type.
 ```
 **3.** What is the method that returns an instance of a class, yet it has no return type?
 <!-- enter you answer in the space below -->
 ```
-void
+static void
 ```
 ## Example 1
 ```c#
