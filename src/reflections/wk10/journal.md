@@ -52,7 +52,7 @@ DROP TABLE table_name;
 
 # Thursday
 >Lab
-- 
+- https://github.com/dhildeb/AllSpice
 
 >What is an Enum, and what are some use cases for them?
 
