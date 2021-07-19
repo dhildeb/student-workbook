@@ -40,17 +40,17 @@ it indicates the return type of the Start method
 **7.** In the example what is `abstract` preventing?
 <!-- enter you answer in the space below -->
 ```
-REVIEW
+the class from being instantiated on its own
 ```
 **8.** In the example what is the purpose of `virtual`?
 <!-- enter you answer in the space below -->
 ```
-REVIEW
+it allows itself to be overridden, so the method can be changed.
 ```
 **9.** Name four access modifiers:
 <!-- enter you answer in the space below -->
 ```
-public, private, inherit, abstract
+public, private, internal, protected
 ```
 **10.** If you set a class or method to private, what can access it?
 <!-- enter you answer in the space below -->
