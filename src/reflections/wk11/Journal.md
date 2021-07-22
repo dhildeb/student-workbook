@@ -25,19 +25,24 @@
 - _db.Query<doctors, patients, doctors>(sql,
             (d, p) =>
             {
-                d.Creator = p;
+                d.Patients = p;
                 return d;
             }).ToList();
 
 # Wednesday
 > Lab
-- 
+- https://github.com/dhildeb/superKnights
 
 >What is SQL injection?
+- its information from the user/hacker that is in the SQL language that is meant to mess up the data in some way.
 
 >What are 3 methods SQL injection can be done by?
+- user input
+- modify cookies
+- HTTP headers
 
 >How can we detect and sanitize SQL injection attacks?
+- SQLmap, santitize user input, IDS.
 
 # Thursday
 > Lab
