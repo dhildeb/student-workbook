@@ -45,7 +45,5 @@
 - SQLmap, santitize user input, IDS.
 
 # Thursday
-> Lab
-- 
-
 >Write a review and reflection of your experiences in this course, as this is the last lecture before your final project, what are your concerns, how do you plan to manage your time, what have you enjoyed most about the course up to this point.
+- Best decision ive ever made! this has not been easy but ive loved nearly every minute of it. i cant believe how fast it has gone by, but even more than that i cant believe how much ive learned. im excited to apply what ive learned in a job setting however i am starting to feel that imposter syndrome. i feel very prepared for the final im going to spend almost every minute of the day coding and i plan on finishing by tuesday. i will be getting plenty of sleep and/or caffiene. 
